@@ -11,19 +11,15 @@
 
 <table align="center">
   <tr>
+    <td align="center"><b>Raw + mesh projection View</b></td>
     <td align="center"><b>Front View</b></td>
-    <td align="center"><b>Side View</b></td>
-    <td align="center"><b>Top View</b></td>
   </tr>
   <tr>
     <td width="33%">
+      <img src="debug3D_GT.gif" alt="Raw View" width="100%">
+    </td>
+    <td width="33%">
       <img src="debug3D_front.gif" alt="Front View" width="100%">
-    </td>
-    <td width="33%">
-      <img src="debug3D_9dir.gif" alt="Side View" width="100%">
-    </td>
-    <td width="33%">
-      <img src="debug3D_top.gif" alt="Top View" width="100%">
     </td>
   </tr>
 </table>
