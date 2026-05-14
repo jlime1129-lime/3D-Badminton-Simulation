@@ -23,6 +23,17 @@
     </td>
   </tr>
 </table>
+<br>
+
+<p align="center">
+  <img src="compare2D_x.png" alt="X" width="80%">
+</p>
+<br>
+<p align="center">
+  <img src="compare2D_y.png" alt="Y" width="80%">
+</p>
+
+<br>
 
 <br>
 
